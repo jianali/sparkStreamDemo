@@ -1,0 +1,2 @@
+# sparkStreamDemo
+测试sparkstream对接TDH上kafka，并使用TDH的Yarn做资源管理
